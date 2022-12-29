@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://prathapkammeta.github.io/csb-tx62zb/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://prathapkammeta.github.io/csb-tx62zb/static/js/main.e198bf58.chunk.js",
+    "main.js.map": "https://prathapkammeta.github.io/csb-tx62zb/static/js/main.e198bf58.chunk.js.map",
+    "runtime-main.js": "https://prathapkammeta.github.io/csb-tx62zb/static/js/runtime-main.8bca90b8.js",
+    "runtime-main.js.map": "https://prathapkammeta.github.io/csb-tx62zb/static/js/runtime-main.8bca90b8.js.map",
+    "static/js/2.78879fb8.chunk.js": "https://prathapkammeta.github.io/csb-tx62zb/static/js/2.78879fb8.chunk.js",
+    "static/js/2.78879fb8.chunk.js.map": "https://prathapkammeta.github.io/csb-tx62zb/static/js/2.78879fb8.chunk.js.map",
+    "index.html": "https://prathapkammeta.github.io/csb-tx62zb/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://prathapkammeta.github.io/csb-tx62zb/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.78879fb8.chunk.js.LICENSE.txt": "https://prathapkammeta.github.io/csb-tx62zb/static/js/2.78879fb8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bca90b8.js",
+    "static/js/2.78879fb8.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e198bf58.chunk.js"
+  ]
+}
